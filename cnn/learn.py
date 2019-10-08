@@ -10,7 +10,7 @@ import random
 import os
 import argparse
 import tensorflow.contrib.slim as slim
-
+import
 from model_helpers import *
 from data_helpers import *
 from network import *
